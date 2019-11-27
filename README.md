@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](https://github.com/CarGuo/GSYGithubAppFlutter/blob/master/logo.png)
 
 
@@ -207,3 +208,6 @@ Licensed works, modifications, and larger works may be distributed under differe
 
 
 ​    
+=======
+# flutterTest
+>>>>>>> b48893b6b316a94f71130019d52c3e4442ba0280
